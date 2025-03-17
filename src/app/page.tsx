@@ -1,0 +1,2 @@
+<analysis>The tracker defines a "Hello, World!" application with a single page. The main requirement is to display the text "Hello, World!" centered on the screen with basic styling using Tailwind CSS. There's no state, data fetching, animation, or API integration needed. The app is also using the standard runtime, so no special configurations are required for edge deployment.</analysis>
+<reasoning>The `src/app/page.tsx` file needs to render the "Hello, World!" text centered. I'll use Tailwind CSS classes to achieve the layout and basic styling.</reasoning>
